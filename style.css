@@ -1,0 +1,16 @@
+
+h2 {
+    color: #495969;
+    font-size: 20px;
+    font-weight:600;
+    font-style: italic;
+}
+a {
+    color: #495969;
+    font-size: 16px;
+    font-weight:600;
+}
+li {
+    margin-bottom: 10px;;
+    list-style-type:none;
+}
